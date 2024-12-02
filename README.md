@@ -1,0 +1,1 @@
+# IA-Generativa-para-a-Classificacao-de-Estilos-Arquitetonicos
