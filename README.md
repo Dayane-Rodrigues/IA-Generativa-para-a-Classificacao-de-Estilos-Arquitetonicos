@@ -1,1 +1,1 @@
-# IA-Generativa-para-a-Classificacao-de-Estilos-Arquitetonicos
+METODOLOGIA DE GERAÇÃO DE DADOS APLICADA À IMAGENS DE BIÓPSIA DE CÂNCER DE MAMA
