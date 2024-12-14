@@ -102,7 +102,7 @@ with tf.device(device_name):
     y_val = val_generator.classes
 
     # Treinar o KNN com as features extraídas
-    knn = KNeighborsClassifier(n_neighbors=5)
+    knn = KNeighborsClassifier(n_neighbors=2)
     knn.fit(train_features, y_train)
 
     # Avaliar o KNN
